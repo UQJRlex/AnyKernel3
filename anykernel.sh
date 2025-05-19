@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=LineageOS-22.1+violet+KernelSU
+kernel.string=LineageOS-22.2+violet+KernelSU
 do.devicecheck=1
 do.modules=0
 do.systemless=1
