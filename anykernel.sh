@@ -7,7 +7,7 @@ properties() { '
 kernel.string=LineageOS-22.2+violet+KernelSU
 do.devicecheck=1
 do.modules=0
-do.systemless=1
+do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=violet
